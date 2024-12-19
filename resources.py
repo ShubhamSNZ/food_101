@@ -1,4 +1,4 @@
-model_file_path = "food_101\\model.keras"
+model_file_path = 'model.keras'
 class_names = ['apple_pie', 'baby_back_ribs', 'baklava', 'beef_carpaccio', 'beef_tartare', 
                'beet_salad', 'beignets', 'bibimbap', 'bread_pudding', 'breakfast_burrito', 
                'bruschetta', 'caesar_salad', 'cannoli', 'caprese_salad', 'carrot_cake',
